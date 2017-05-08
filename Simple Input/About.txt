@@ -1,5 +1,5 @@
-This is just a simple program that takes user input and executes actions based on them. The objective of this was to perform dynamic array resizing. 
-Data Structures project 2 at the University of Oklahoma.
+This is just a simple program that takes user input and executes actions based on them. The objective of this was to perform dynamic array resizing dependent on basic user input.
+DS project at the University of Oklahoma.
 
 If you try to run the project in Visual Studio it should be using redirected input. The test input is as follows. There is only 1 cpp file.
 
