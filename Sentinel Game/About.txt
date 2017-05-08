@@ -1,0 +1,1 @@
+This game was my first contribution to any project. I developed all of the AI for the game back when I was 15 years old (In 2006). It was made in Game Maker. Feel free to give it a play!

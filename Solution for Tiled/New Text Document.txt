@@ -1,0 +1,6 @@
+The Opensource software "Tiled" needed a solution for showing and updating Shortcut text on QActions placed in toolbars as the toolTip does not automatically update and display this.
+My solution was to create a singleton class that could be accessible from anywhere that could house the wanted actions for ease of use. Because the actions are spread across multiple different widgets this is a convienent feature to have. Not only does this solution allow easy updates on toolTips of specific actions, it also contains a list of all the different QWidgets across the platform. I am still working on the functionality of this class as we speak.
+
+My philosophy in everything I do is. "The best solution is the solution that solves multiple problems". Why make 3 different solutions when you can create one solution that solves all 3 problems.
+
+Tiled is being build in QT Creator.
