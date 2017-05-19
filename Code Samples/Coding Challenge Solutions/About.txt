@@ -1,0 +1,10 @@
+This folder contains solutions of Online Coding Challenges. Along with the code I will post
+the link to the challenges in this file.
+
+---------------------------------------------------------------------------------------------:
+Main.java  --->  Solution to Codingames' Skynet Revolution Episode 1.                        :
+---------------------------------------------------------------------------------------------:
+This challenge involves creating a graph and attempting to stop a connection
+being made by an "agent" to an exit portal on the graph.
+
+https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1
