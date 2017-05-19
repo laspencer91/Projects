@@ -8,3 +8,11 @@ This challenge involves creating a graph and attempting to stop a connection
 being made by an "agent" to an exit portal on the graph.
 
 https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1
+
+---------------------------------------------------------------------------------------------:
+ShadowsOfTheNight.java  --->  Solution to Codingames' Shadows of the Knight 1.                        :
+---------------------------------------------------------------------------------------------:
+This challenge involves performing binary search on two axis to find the a position on a plane
+in the least amount of steps possible.
+
+https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1
